@@ -15,9 +15,9 @@ First time playing around (and fighting) with animations.
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;
-<img src="/results/screenshot_2.png" width="260">&emsp;
-<img src="/results/screenshot_2.png" width="260">&emsp;
-<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_2.png" width="260"><br/>
+<img src="/results/screenshot_3.png" width="260">&emsp;
+<img src="/results/screenshot_4.png" width="260">
 
 ## License
 ```
